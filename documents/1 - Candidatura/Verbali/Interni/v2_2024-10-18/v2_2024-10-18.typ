@@ -102,7 +102,7 @@
 #par()[
   #v(1em)
   #figure(kind: "Allegato", supplement: [Allegato])[
-    #link("https://github.com/Archi7echs-Team/Docs/tree/master/documents/1-Candidatura/verbali/interni/v2_2024-10-18/allegato1.pdf")[#text(blue)[Allegato 1]] _Risposta Sanmarco Informatica_
+    #link("https://github.com/Archi7echs-Team/docs/tree/master/documents/1 - Candidatura/Verbali/Interni/v2_2024-10-18/allegato1.pdf")[#text(blue)[Allegato 1]] _Risposta Sanmarco Informatica_
     #h(1fr)
   ] <bozza_email>
 ]

@@ -94,7 +94,7 @@ _Dopo essersi accordati con l'azienda Sanmarco Informatica il team convoca una c
 
 = Allegati <allegati>
 #v(1em)
-#link("https://github.com/Archi7echs-Team/Docs/tree/master/documents/1-Candidatura/verbali/esterni/v2_2024-10-25/allegato1.pdf")[#text(blue)[Allegato 1]] _Domande per l'azienda_
+#link("https://github.com/Archi7echs-Team/docs/tree/master/documents/1 - Candidatura/Verbali/Esterni/v2_2024-10-25/allegato1.pdf")[#text(blue)[Allegato 1]] _Domande per l'azienda_
 
 
 = Verbale <verbale>

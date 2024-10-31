@@ -106,7 +106,7 @@ videoconferenza per discutere quanto segue:_
 #par()[
   #v(1em)
   #figure(kind: "Allegato", supplement: [Allegato])[
-    #link("https://github.com/Archi7echs-Team/Docs/tree/master/documents/1-Candidatura/verbali/interni/v1_2024-10-16/allegato1.pdf")[#text(blue)[Allegato 1]] _Bozza email Sanmarco Informatica_
+    #link("https://github.com/Archi7echs-Team/docs/tree/master/documents/1 - Candidatura/Verbali/Interni/v1_2024-10-16/allegato1.pdf")[#text(blue)[Allegato 1]] _Bozza email Sanmarco Informatica_
     #h(1fr)
   ] <bozza_email>
 ]

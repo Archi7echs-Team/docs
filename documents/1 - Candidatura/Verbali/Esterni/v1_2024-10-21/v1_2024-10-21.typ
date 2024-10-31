@@ -99,7 +99,7 @@
 = Allegati <allegati>
 #par()[
   #v(1em)
-  #link("https://github.com/Archi7echs-Team/Docs/tree/master/documents/1-Candidatura/verbali/esterni/v1_2024-10-21/allegato1.pdf")[#text(blue)[Allegato 1]] _Domande per l'azienda_
+  #link("https://github.com/Archi7echs-Team/docs/tree/master/documents/1 - Candidatura/Verbali/Esterni/v1_2024-10-21/allegato1.pdf")[#text(blue)[Allegato 1]] _Domande per l'azienda_
 ]
 
 = Verbale <verbale>
